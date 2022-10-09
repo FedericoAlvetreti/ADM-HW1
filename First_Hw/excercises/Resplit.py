@@ -1,2 +1,0 @@
-regex_pattern = r"[,-.]"
-
